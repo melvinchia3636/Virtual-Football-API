@@ -1,0 +1,66 @@
+[
+    {
+        "url": "https://rgs.betradar.com/bgw-services-af-rest/rest/bookmakers/27/markets?key=pK9saJZcyZRVRgZ9&ptype=vfl&event=event://uniform.sportradar.com/vfl/1252255250&lang=en",
+        "competitors": "VFL Stockholm - VFL Berlin",
+        "time": 1614514272,
+        "1": 3.65,
+        "x": 3.6,
+        "2": 1.85
+    },
+    {
+        "url": "https://rgs.betradar.com/bgw-services-af-rest/rest/bookmakers/27/markets?key=pK9saJZcyZRVRgZ9&ptype=vfl&event=event://uniform.sportradar.com/vfl/1252255262&lang=en",
+        "competitors": "VFL Zagreb - VFL Amsterdam",
+        "time": 1614514272,
+        "1": 3.75,
+        "x": 3.05,
+        "2": 2.0
+    },
+    {
+        "url": "https://rgs.betradar.com/bgw-services-af-rest/rest/bookmakers/27/markets?key=pK9saJZcyZRVRgZ9&ptype=vfl&event=event://uniform.sportradar.com/vfl/1252255248&lang=en",
+        "competitors": "VFL Madrid - VFL Vienna",
+        "time": 1614514272,
+        "1": 1.18,
+        "x": 7.25,
+        "2": 9.25
+    },
+    {
+        "url": "https://rgs.betradar.com/bgw-services-af-rest/rest/bookmakers/27/markets?key=pK9saJZcyZRVRgZ9&ptype=vfl&event=event://uniform.sportradar.com/vfl/1252255254&lang=en",
+        "competitors": "VFL Oslo - VFL Paris",
+        "time": 1614514286,
+        "1": 1.65,
+        "x": 3.55,
+        "2": 4.7
+    },
+    {
+        "url": "https://rgs.betradar.com/bgw-services-af-rest/rest/bookmakers/27/markets?key=pK9saJZcyZRVRgZ9&ptype=vfl&event=event://uniform.sportradar.com/vfl/1252255256&lang=en",
+        "competitors": "VFL Ankara - VFL Bern",
+        "time": 1614514286,
+        "1": 1.85,
+        "x": 3.5,
+        "2": 3.6
+    },
+    {
+        "url": "https://rgs.betradar.com/bgw-services-af-rest/rest/bookmakers/27/markets?key=pK9saJZcyZRVRgZ9&ptype=vfl&event=event://uniform.sportradar.com/vfl/1252255252&lang=en",
+        "competitors": "VFL Edinburgh - VFL Lisbon",
+        "time": 1614514286,
+        "1": 4.1,
+        "x": 3.75,
+        "2": 1.7
+    },
+    {
+        "url": "https://rgs.betradar.com/bgw-services-af-rest/rest/bookmakers/27/markets?key=pK9saJZcyZRVRgZ9&ptype=vfl&event=event://uniform.sportradar.com/vfl/1252255258&lang=en",
+        "competitors": "VFL London - VFL Copenhagen",
+        "time": 1614514286,
+        "1": 1.4,
+        "x": 4.0,
+        "2": 7.75
+    },
+    {
+        "url": "https://rgs.betradar.com/bgw-services-af-rest/rest/bookmakers/27/markets?key=pK9saJZcyZRVRgZ9&ptype=vfl&event=event://uniform.sportradar.com/vfl/1252255260&lang=en",
+        "competitors": "VFL Athens - VFL Rome",
+        "time": 1614514286,
+        "1": 3.0,
+        "x": 3.7,
+        "2": 2.0
+    }
+]
